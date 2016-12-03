@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 5a4e1868eb8fa416f87ac515db0e3aed
+timeCreated: 1479535314
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera001
+    100002: Camera001.Target
+    100004: //RootNode
+    100006: Cylinder015
+    100008: Cylinder016
+    100010: Line108
+    100012: Line109
+    100014: Line110
+    100016: Line112
+    100018: Line113
+    100020: Line114
+    100022: Line115
+    100024: Line116
+    100026: Line118
+    100028: Line119
+    100030: Line120
+    100032: Line121
+    100034: Omni01
+    100036: Sky001
+    100038: vase
+    400000: Camera001
+    400002: Camera001.Target
+    400004: //RootNode
+    400006: Cylinder015
+    400008: Cylinder016
+    400010: Line108
+    400012: Line109
+    400014: Line110
+    400016: Line112
+    400018: Line113
+    400020: Line114
+    400022: Line115
+    400024: Line116
+    400026: Line118
+    400028: Line119
+    400030: Line120
+    400032: Line121
+    400034: Omni01
+    400036: Sky001
+    400038: vase
+    2300000: Cylinder015
+    2300002: Cylinder016
+    2300004: Line108
+    2300006: Line109
+    2300008: Line110
+    2300010: Line112
+    2300012: Line113
+    2300014: Line114
+    2300016: Line115
+    2300018: Line116
+    2300020: Line118
+    2300022: Line119
+    2300024: Line120
+    2300026: Line121
+    2300028: vase
+    3300000: Cylinder015
+    3300002: Cylinder016
+    3300004: Line108
+    3300006: Line109
+    3300008: Line110
+    3300010: Line112
+    3300012: Line113
+    3300014: Line114
+    3300016: Line115
+    3300018: Line116
+    3300020: Line118
+    3300022: Line119
+    3300024: Line120
+    3300026: Line121
+    3300028: vase
+    4300000: Cylinder016
+    4300002: Line118
+    4300004: vase
+    4300006: Line108
+    4300008: Line113
+    4300010: Line109
+    4300012: Line120
+    4300014: Line114
+    4300016: Line115
+    4300018: Line112
+    4300020: Line121
+    4300022: Line119
+    4300024: Line110
+    4300026: Cylinder015
+    4300028: Line116
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

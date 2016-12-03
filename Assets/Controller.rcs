@@ -1,0 +1,23 @@
+﻿using UnityEngine;
+using System.Collections;
+using SocketIO;
+
+public class Controller : MonoBehaviour {
+
+	public SocketIOComponent socket;
+	// Use this for initialization
+	void Start () {
+		Debug.Log ("startr: ");
+		StartCoroutine (ConnectedToServer ());
+		socket.On ("user connected", OnUserConnected);
+	}
+	IEnumerator ConnectedToServer(){
+		Debug.Log ("userlogin emit: ");
+		yield return new WaitForSeconds (0.5f);
+
+		socket.Emit("user login");
+	}
+	private void OnUserConnected(SocketIOEvent evt){
+		Debug.Log ("Get The messagefrom server: " + evt.data);
+	}
+}
